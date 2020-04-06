@@ -117,3 +117,4 @@
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
 * [Aprillia_Nur_Afifah](https://www.linkedin.com/mwlite/in/aprillia-nur-89a35b1a6) 
+* [Sinta_Puspita_Wulandari](https://www.linkedin.com/in/sinta-puspita-1823601a6)
